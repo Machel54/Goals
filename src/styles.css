@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+body{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('https://images.pexels.com/photos/2816904/pexels-photo-2816904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1300px;
+  color: blanchedalmond
+}
